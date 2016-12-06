@@ -12,6 +12,8 @@ So I created a chrome extension to stop that!
 ENJOY
 <br />
 _Gif Example bellow (I told you, I hate gif distraction)_
+
+This extension is optimized for producthunt only. You can try to use it on other websites by changing the manifest.json file.
 <br />
 <br />
 <br />
