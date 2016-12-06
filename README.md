@@ -10,4 +10,12 @@ It is just so annoying to have thousand of moving, distracting gifs with almost 
 So I created a chrome extension to stop that!
 ENJOY
 
+
+
+
+
+
+
+
+
 ![alt tag](https://github.com/dhayhak/gifyezi-Producthunt-Gif-Stopper-/blob/master/2016-12-06_10h25_43.gif)
