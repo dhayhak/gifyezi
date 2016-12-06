@@ -1,2 +1,2 @@
-# gifyezi
-Gif Stopper Chrome extension for Producthunt
+# gifyezi Chrome extension
+Gif Stopper for Producthunt
